@@ -1,0 +1,184 @@
+# Rewrite to www
+Options +FollowSymLinks
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^mattandreko.com[nc]
+RewriteRule ^(.*)$ http://www.mattandreko.com/$1 [r=301,nc]
+
+# 301 Redirect Old Files
+Redirect 301 /2011/08/cucumber-testing-woes-spaces.html /2011/08/16/cucumber-testing-woes-spaces/
+Redirect 301 /2011/08/installing-guard-gem-causes-tests-to.html /2011/08/18/installing-guard-gem-causes-tests-to/
+Redirect 301 /2011/08/poor-ui-experience.html /2011/08/17/poor-ui-experience/
+Redirect 301 /2011/09/origin-of-name-pentium.html /2011/09/02/origin-of-name-pentium/
+Redirect 301 /2011/10/demise-of-fast-food.html /2011/10/16/demise-of-fast-food/
+Redirect 301 /2011/10/finding-dll-files-in-gac.html /2011/10/14/finding-dll-files-in-gac/
+Redirect 301 /2011/10/sprint-iphone-4s-pre-order-fiasco.html /2011/10/07/sprint-iphone-4s-pre-order-fiasco/
+Redirect 301 /2011/11/fogbugz-vim-scrolling.html /2011/11/30/fogbugz-vim-scrolling/
+Redirect 301 /2011/12/exploit-exercises-nebula-00.html /2011/12/01/exploit-exercises-nebula-00/
+Redirect 301 /2011/12/exploit-exercises-nebula-01.html /2011/12/02/exploit-exercises-nebula-01/
+Redirect 301 /2011/12/exploit-exercises-nebula-02.html /2011/12/03/exploit-exercises-nebula-02/
+Redirect 301 /2011/12/exploit-exercises-nebula-03.html /2011/12/04/exploit-exercises-nebula-03/
+Redirect 301 /2011/12/exploit-exercises-nebula-04.html /2011/12/05/exploit-exercises-nebula-04/
+Redirect 301 /2011/12/exploit-exercises-nebula-05.html /2011/12/06/exploit-exercises-nebula-05/
+Redirect 301 /2011/12/exploit-exercises-nebula-06.html /2011/12/07/exploit-exercises-nebula-06/
+Redirect 301 /2011/12/exploit-exercises-nebula-07.html /2011/12/08/exploit-exercises-nebula-07/
+Redirect 301 /2011/12/exploit-exercises-nebula-08.html /2011/12/09/exploit-exercises-nebula-08/
+Redirect 301 /2011/12/exploit-exercises-nebula-09.html /2011/12/10/exploit-exercises-nebula-09/
+Redirect 301 /2011/12/exploit-exercises-nebula-10.html /2011/12/11/exploit-exercises-nebula-10/
+Redirect 301 /2011/12/exploit-exercises-protostar-stack-0.html /2011/12/12/exploit-exercises-protostar-stack-0/
+Redirect 301 /2011/12/exploit-exercises-protostar-stack-1.html /2011/12/13/exploit-exercises-protostar-stack-1/
+Redirect 301 /2011/12/exploit-exercises-protostar-stack-2.html /2011/12/14/exploit-exercises-protostar-stack-2/
+Redirect 301 /2011/12/exploit-exercises-protostar-stack-3.html /2011/12/15/exploit-exercises-protostar-stack-3/
+Redirect 301 /2011/12/exploit-exercises-protostar-stack-4.html /2011/12/16/exploit-exercises-protostar-stack-4/
+Redirect 301 /2011/12/exploit-exercises-protostar-stack-5.html /2011/12/17/exploit-exercises-protostar-stack-5/
+Redirect 301 /2011/12/exploit-exercises-protostar-stack-6.html /2011/12/22/exploit-exercises-protostar-stack-6/
+Redirect 301 /2012/01/exploit-exercises-final-0.html /2012/01/22/exploit-exercises-final-0/
+Redirect 301 /2012/01/exploit-exercises-heap-0.html /2012/01/10/exploit-exercises-heap-0/
+Redirect 301 /2012/01/exploit-exercises-protostar-format-0.html /2012/01/24/exploit-exercises-protostar-format-0/
+Redirect 301 /2012/01/exploit-exercises-protostar-format-1.html /2012/01/30/exploit-exercises-protostar-format-1/
+Redirect 301 /2012/01/exploit-exercises-protostar-format-2.html /2012/01/31/exploit-exercises-protostar-format-2/
+Redirect 301 /2012/01/exploit-exercises-protostar-heap-1.html /2012/01/12/exploit-exercises-protostar-heap-1/
+Redirect 301 /2012/01/exploit-exercises-protostar-stack-7.html /2012/01/09/exploit-exercises-protostar-stack-7/
+Redirect 301 /2012/02/exploit-exercises-protostar-final-1.html /2012/02/05/exploit-exercises-protostar-final-1/
+Redirect 301 /2012/02/exploit-exercises-protostar-format-3.html /2012/02/01/exploit-exercises-protostar-format-3/
+Redirect 301 /2012/02/exploit-exercises-protostar-format-4.html /2012/02/02/exploit-exercises-protostar-format-4/
+Redirect 301 /2012/02/exploit-exercises-protostar-net-0.html /2012/02/08/exploit-exercises-protostar-net-0/
+Redirect 301 /2012/02/exploit-exercises-protostar-net-1.html /2012/02/09/exploit-exercises-protostar-net-1/
+Redirect 301 /2012/02/exploit-exercises-protostar-net-2.html /2012/02/10/exploit-exercises-protostar-net-2/
+Redirect 301 /2012/02/exploit-exercises-protostar-net-3.html /2012/02/11/exploit-exercises-protostar-net-3/
+Redirect 301 /2012/02/kioptrix-4.html /2012/02/12/kioptrix-4/
+Redirect 301 /2012/02/using-net-to-bypass-av.html /2012/02/23/using-net-to-bypass-av/
+Redirect 301 /2012/03/pwb-progress-and-impressions.html /2012/03/27/pwb-progress-and-impressions/
+Redirect 301 /2012/04/exploit-exercises-fusion-00.html /2012/04/09/exploit-exercises-fusion-00/
+Redirect 301 /2012/06/pwb-conclusions-and-future.html /2012/06/24/pwb-conclusions-and-future/
+Redirect 301 /2012/07/exploit-exercises-fusion-01.html /2012/07/03/exploit-exercises-fusion-01/
+Redirect 301 /2012/07/oscp-certification-in-mail.html /2012/07/08/oscp-certification-in-mail/
+Redirect 301 /2012/07/sysax-564-http-remote-buffer-overflow.html /2012/07/28/sysax-564-http-remote-buffer-overflow/
+Redirect 301 /2012/10/overthewire-natas-level-0.html /2012/10/30/overthewire-natas-level-0/
+Redirect 301 /2012/10/overthewire-natas-level-1.html /2012/10/31/overthewire-natas-level-1/
+Redirect 301 /2012/11/overthewire-monxla-part-1.html /2012/11/24/overthewire-monxla-part-1/
+Redirect 301 /2012/11/overthewire-monxla-part-2.html /2012/11/25/overthewire-monxla-part-2/
+Redirect 301 /2012/11/overthewire-monxla-part-3.html /2012/11/26/overthewire-monxla-part-3/
+Redirect 301 /2012/11/overthewire-natas-level-10.html /2012/11/09/overthewire-natas-level-10/
+Redirect 301 /2012/11/overthewire-natas-level-11.html /2012/11/10/overthewire-natas-level-11/
+Redirect 301 /2012/11/overthewire-natas-level-12.html /2012/11/11/overthewire-natas-level-12/
+Redirect 301 /2012/11/overthewire-natas-level-13.html /2012/11/12/overthewire-natas-level-13/
+Redirect 301 /2012/11/overthewire-natas-level-14.html /2012/11/13/overthewire-natas-level-14/
+Redirect 301 /2012/11/overthewire-natas-level-15.html /2012/11/14/overthewire-natas-level-15/
+Redirect 301 /2012/11/overthewire-natas-level-2.html /2012/11/01/overthewire-natas-level-2/
+Redirect 301 /2012/11/overthewire-natas-level-3.html /2012/11/02/overthewire-natas-level-3/
+Redirect 301 /2012/11/overthewire-natas-level-4.html /2012/11/03/overthewire-natas-level-4/
+Redirect 301 /2012/11/overthewire-natas-level-5.html /2012/11/04/overthewire-natas-level-5/
+Redirect 301 /2012/11/overthewire-natas-level-6.html /2012/11/05/overthewire-natas-level-6/
+Redirect 301 /2012/11/overthewire-natas-level-7.html /2012/11/06/overthewire-natas-level-7/
+Redirect 301 /2012/11/overthewire-natas-level-8.html /2012/11/07/overthewire-natas-level-8/
+Redirect 301 /2012/11/overthewire-natas-level-9.html /2012/11/08/overthewire-natas-level-9/
+Redirect 301 /2013/02/hsts-metasploit-module.html /2013/02/21/hsts-metasploit-module/
+Redirect 301 /2013/02/multiple-hovercom-security-issues.html /2013/02/28/multiple-hovercom-security-issues/
+Redirect 301 /2013/02/xbmc-traversal-metasploit-module.html /2013/02/25/xbmc-traversal-metasploit-module/
+Redirect 301 /2013/04/buffer-overflow-in-hexchat-294.html /2013/04/06/buffer-overflow-in-hexchat-294/
+Redirect 301 /2013/04/sysax-multi-server-610-ssh-dos.html /2013/04/08/sysax-multi-server-610-ssh-dos/
+Redirect 301 /2013/06/canon-y-u-no-security.html /2013/06/18/canon-y-u-no-security/
+
+
+# Block bad bots
+RewriteEngine On 
+RewriteCond %{HTTP_USER_AGENT} ^BlackWidow [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Bot\ mailto:craftbot@yahoo.com [OR]
+RewriteCond %{HTTP_USER_AGENT} ^ChinaClaw [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Custo [OR]
+RewriteCond %{HTTP_USER_AGENT} ^DISCo [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Download\ Demon [OR]
+RewriteCond %{HTTP_USER_AGENT} ^eCatch [OR]
+RewriteCond %{HTTP_USER_AGENT} ^EirGrabber [OR]
+RewriteCond %{HTTP_USER_AGENT} ^EmailSiphon [OR]
+RewriteCond %{HTTP_USER_AGENT} ^EmailWolf [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Express\ WebPictures [OR]
+RewriteCond %{HTTP_USER_AGENT} ^ExtractorPro [OR]
+RewriteCond %{HTTP_USER_AGENT} ^EyeNetIE [OR]
+RewriteCond %{HTTP_USER_AGENT} ^FlashGet [OR]
+RewriteCond %{HTTP_USER_AGENT} ^GetRight [OR]
+RewriteCond %{HTTP_USER_AGENT} ^GetWeb! [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Go!Zilla [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Go-Ahead-Got-It [OR]
+RewriteCond %{HTTP_USER_AGENT} ^GrabNet [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Grafula [OR]
+RewriteCond %{HTTP_USER_AGENT} ^HMView [OR]
+RewriteCond %{HTTP_USER_AGENT} HTTrack [NC,OR]
+RewriteCond %{HTTP_USER_AGENT} ^Image\ Stripper [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Image\ Sucker [OR]
+RewriteCond %{HTTP_USER_AGENT} Indy\ Library [NC,OR]
+RewriteCond %{HTTP_USER_AGENT} ^InterGET [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Internet\ Ninja [OR]
+RewriteCond %{HTTP_USER_AGENT} ^JetCar [OR]
+RewriteCond %{HTTP_USER_AGENT} ^JOC\ Web\ Spider [OR]
+RewriteCond %{HTTP_USER_AGENT} ^larbin [OR]
+RewriteCond %{HTTP_USER_AGENT} ^LeechFTP [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Mass\ Downloader [OR]
+RewriteCond %{HTTP_USER_AGENT} ^MIDown\ tool [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Mister\ PiX [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Navroad [OR]
+RewriteCond %{HTTP_USER_AGENT} ^NearSite [OR]
+RewriteCond %{HTTP_USER_AGENT} ^NetAnts [OR]
+RewriteCond %{HTTP_USER_AGENT} ^NetSpider [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Net\ Vampire [OR]
+RewriteCond %{HTTP_USER_AGENT} ^NetZIP [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Octopus [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Offline\ Explorer [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Offline\ Navigator [OR]
+RewriteCond %{HTTP_USER_AGENT} ^PageGrabber [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Papa\ Foto [OR]
+RewriteCond %{HTTP_USER_AGENT} ^pavuk [OR]
+RewriteCond %{HTTP_USER_AGENT} ^pcBrowser [OR]
+RewriteCond %{HTTP_USER_AGENT} ^RealDownload [OR]
+RewriteCond %{HTTP_USER_AGENT} ^ReGet [OR]
+RewriteCond %{HTTP_USER_AGENT} ^SiteSnagger [OR]
+RewriteCond %{HTTP_USER_AGENT} ^SmartDownload [OR]
+RewriteCond %{HTTP_USER_AGENT} ^SuperBot [OR]
+RewriteCond %{HTTP_USER_AGENT} ^SuperHTTP [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Surfbot [OR]
+RewriteCond %{HTTP_USER_AGENT} ^tAkeOut [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Teleport\ Pro [OR]
+RewriteCond %{HTTP_USER_AGENT} ^VoidEYE [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Web\ Image\ Collector [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Web\ Sucker [OR]
+RewriteCond %{HTTP_USER_AGENT} ^WebAuto [OR]
+RewriteCond %{HTTP_USER_AGENT} ^WebCopier [OR]
+RewriteCond %{HTTP_USER_AGENT} ^WebFetch [OR]
+RewriteCond %{HTTP_USER_AGENT} ^WebGo\ IS [OR]
+RewriteCond %{HTTP_USER_AGENT} ^WebLeacher [OR]
+RewriteCond %{HTTP_USER_AGENT} ^WebReaper [OR]
+RewriteCond %{HTTP_USER_AGENT} ^WebSauger [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Website\ eXtractor [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Website\ Quester [OR]
+RewriteCond %{HTTP_USER_AGENT} ^WebStripper [OR]
+RewriteCond %{HTTP_USER_AGENT} ^WebWhacker [OR]
+RewriteCond %{HTTP_USER_AGENT} ^WebZIP [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Wget [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Widow [OR]
+RewriteCond %{HTTP_USER_AGENT} ^WWWOFFLE [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Xaldon\ WebSpider [OR]
+RewriteCond %{HTTP_USER_AGENT} ^Zeus
+RewriteRule ^.* - [F,L]
+ 
+#### CACHING ####
+ExpiresActive On
+ExpiresDefault A3600
+
+# 1 MONTH
+<FilesMatch "\.(ico|gif|jpe?g|png|flv|pdf|swf|mov|mp3|wmv|ppt)$">
+ExpiresDefault A2419200
+Header append Cache-Control "public"
+</FilesMatch>
+
+# 3 DAYS
+<FilesMatch "\.(xml|txt|html|htm|js|css)$">
+ExpiresDefault A259200
+Header append Cache-Control "private, must-revalidate"
+</FilesMatch>
+
+# NEVER CACHE
+<FilesMatch "\.(php|cgi|pl)$">
+ExpiresDefault A0
+Header set Cache-Control "no-store, no-cache, must-revalidate, max-age=0"
+Header set Pragma "no-cache"
+</FilesMatch>
