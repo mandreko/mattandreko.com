@@ -12,6 +12,8 @@ categories:
 
 Continuing from the last post, we are now logged in as a user. The next step on the PDF from the agent, that we can access, is the Notes Service.
 
+<!-- more -->
+
 I started analyzing the source code, and noticed that the text that says "yes" or "no" in the table is actually an image being rendered from the hasnotes.php file. I started tinkering with that file, and found that it was vulnerable to SQL injection.
 
 {% img /images/monxla3_1.png %}

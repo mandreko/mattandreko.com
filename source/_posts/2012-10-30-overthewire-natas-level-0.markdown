@@ -13,6 +13,8 @@ categories:
 
 I recently read that [OverTheWire](http://www.overthewire.org) had released a new wargame, so I decided to play for fun.
 
+<!-- more -->
+
 The [first level](http://natas0.natas.labs.overthewire.org) is extremely easy. You are presented with a page that tells you that you are able to find the password on this page.
 
 {% img /images/natas0_1.png %}

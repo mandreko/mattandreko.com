@@ -13,6 +13,8 @@ categories:
 
 Continuing on with Level 3 of OverTheWire's Natas wargame, I found the first page, like previous levels, saying that there was nothing on the page.
 
+<!-- more -->
+
 {% img /images/natas3_1.png %}
 
 I viewed the source and saw the strange comment about "Not even Google will find it".

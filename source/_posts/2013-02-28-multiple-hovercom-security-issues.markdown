@@ -12,6 +12,8 @@ categories:
 
 I'm a customer of [Hover](http://www.hover.com) for my domain name needs. However, that will be changing because I don't believe that they take issues seriously.
 
+<!-- more -->
+
 ## The first security issue
 
 I was browsing their site, looking for a new domain, and being the constant tinkerer I am, I entered a single quote into the textfield. I noticed an error, and eventually crafted this url:

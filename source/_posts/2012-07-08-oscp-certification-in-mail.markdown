@@ -12,6 +12,8 @@ categories:
 
 So previously, I had blogged about recently getting [OSCP certified](http://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional). I came home from my vacation to find a package from Offensive Security in my mailbox all the way from Israel. 
 
+<!-- more -->
+
 After getting settled down, I opened the package and found some my certificate, wrapped in a nice folder, that I have filed away to keep forever. 
 
 Here is the front: 

@@ -12,6 +12,8 @@ categories:
 
 So last night I was working on a project where I needed a specific version of a .net assembly that was installed somewhere on my system, but I could not locate it by a common search. Whenever I would open up C:\Windows\Assembly\ I could see the file and the multiple versions that I had installed. However, from that window, you can not copy the files out. All I wanted, was to copy the file to my local source branch, and include it in source control.
 
+<!-- more -->
+
 I stumbled upon an [article](http://stackoverflow.com/questions/714907/how-to-extract-an-assembly-from-the-gac/714919#714919) that mentioned being able to go to:
 
 {% blockquote %}

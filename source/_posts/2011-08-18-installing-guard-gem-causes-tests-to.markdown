@@ -18,6 +18,8 @@ rake cucumber
 
 This worked perfectly, but every time I'd make a change, I'd have to run both commands.  So I looked into the [Guard](https://github.com/guard/guard) gem, after watching the excellent [RailsCast](http://railscasts.com/episodes/264-guard) by Ryan Bates. 
 
+<!-- more -->
+
 I started by adding to my gemfile:
 
 ```

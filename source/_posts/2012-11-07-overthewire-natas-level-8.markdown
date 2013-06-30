@@ -14,6 +14,8 @@ categories:
 
 [Level 8](http://natas8.natas.labs.overthewire.org) of the [OverTheWires](http://www.overthewire.org) Natas wargame was pretty simple, as a developer, but could prove more difficult if you don't have similar background.
 
+<!-- more -->
+
 It starts out with a secret password input.
 
 {% img /images/natas8_1.png %}

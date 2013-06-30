@@ -12,6 +12,8 @@ categories:
 
 I had a twitter [follower](https://twitter.com/Mito125twit) recently inform me that OverTheWire had a new wargame up and running. &nbsp;I was immediately excited and downloaded it. &nbsp;Several days later, I actually was able to start tinkering with it.
 
+<!-- more -->
+
 I booted up the image, and proceeded to do some preliminary nmap scans. &nbsp;I found a few services runinng:
 
 ```

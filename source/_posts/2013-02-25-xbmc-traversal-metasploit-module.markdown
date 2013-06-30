@@ -13,6 +13,8 @@ categories:
 
 I was talking in [Intern0t](irc://chat.freenode.net:6667/intern0t) several months ago. [AcidGen](https://twitter.com/Acidgen), from [IOActive](http://www.ioactive.com) mentioned that he found a bug in [XBMC](http://www.xbmc.org). I use [XBMC](http://www.xbmc.org) quite a bit at home, on various platforms, since it's extremely wife-friendly. I hit him up, and we started talking. We had a nice Skype conversation, where we discussed possible platforms that were affected, and future exploits that we'd like to find. Since I had a jailbroken [Apple TV 2](https://www.apple.com/appletv) and [RaspberryPi](http://www.raspberrypi.org), I told him that I could test those platforms and help out. 
 
+<!-- more -->
+
 An [official disclosure](http://www.ioactive.com/pdfs/Security_Advisory_XBMC.pdf) was released, detailing the directory traversal vulnerability. The [XBMC](http://www.xbmc.org) team was able to make a [fix](https://github.com/xbmc/xbmc/commit/bdff099c024521941cb0956fe01d99ab52a65335), and the new version 12 is not vulnerable.
 
 ## Why does this vulnerability matter?

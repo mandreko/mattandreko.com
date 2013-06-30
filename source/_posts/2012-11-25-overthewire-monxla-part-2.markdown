@@ -12,6 +12,8 @@ categories:
 
 In the previous post, I showed how to get the PDF that outlines the services running on the Monxla VM image. This article will continue where that one left off.
 
+<!-- more -->
+
 Firstly, the PDF explains that there are 2 virtual hosts enabled on the machine. To configure my machine for these virtual hosts, I added these lines to my /etc/hosts file: 
 
 ```

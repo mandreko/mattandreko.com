@@ -19,6 +19,8 @@ As I posted previously, I was taking the [PWB](http://www.offensive-security.com
 
 {% img /images/pwb_course_pass.png %}
 
+<!-- more -->
+
 Advice for new students
 -----------------------
 

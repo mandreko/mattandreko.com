@@ -13,6 +13,8 @@ categories:
 
 In continuing with the Natas wargame from [OverTheWire](http://www.overthewire.org), I tried my hand at [level 1](http://natas1.natas.labs.overthewire.org). It too was pretty easy. It was just like the level 0, except that right-clicking was disabled via javascript.
 
+<!-- more -->
+
 You start out by being told that the password can be found on the page that you're on, just like the last one.
 
 {% img /images/natas1_1.png %}

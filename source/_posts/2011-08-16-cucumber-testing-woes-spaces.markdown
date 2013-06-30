@@ -15,6 +15,7 @@ So I'm working along, writing my tests, and I run into an issue where my Cucumbe
 
 {% img /images/cucumber_fail.png %}
 
+<!-- more -->
 
 I've slightly outlined the relevant data in yellow. I went back, and copy/pasted the data from the creation from my factories, to the expectation of text. It still gave the same error. I was dumbfounded, as I can clearly see the exact same text in my "And I should see" as well as the actual results.
 

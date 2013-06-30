@@ -14,6 +14,7 @@ categories:
 
 Now that we're about 1/3 through to the end of the [OverTheWire](http://www.overthewire.org) Natas wargame, I'm hoping that they start to get a little more tricky. [Level 5](http://natas5.natas.labs.overthewire.org) unfortunately is still pretty easy.
 
+<!-- more -->
 
 It starts by simply telling you that you're not logged in.
 

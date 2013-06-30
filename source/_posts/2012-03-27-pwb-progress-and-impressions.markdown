@@ -11,6 +11,8 @@ categories:
 
 I recently decided to take [Offensive Security's course, Penetration Testing with Backtrack](http://www.offensive-security.com/information-security-training/penetration-testing-with-backtrack/).  I'm now 30 days in, of my 90 day allotment.  I figured I would share my impressions and what I've learned up to now, without being specific enough to give anything away to future students. 
 
+<!-- more -->
+
 ## The Wait
 
 So I decided to take the class, and submitted the order on February 16th 2012.  Offensive Security starts new classes each Sunday, and apparently the one starting on February 18th was already full, so I ended up waiting until February 25th.  The waiting was agonizing.  I wanted to get started <b>now</b>.  But alas, I waited my time. 

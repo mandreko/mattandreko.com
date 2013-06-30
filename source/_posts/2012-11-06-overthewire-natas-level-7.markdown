@@ -13,6 +13,8 @@ categories:
 
 Finally, with level 7 of OverTheWire's Natas wargame, we start to get to more "real world" vulnerabilities. It's still very easy, but it's at least getting better.
 
+<!-- more -->
+
 We start with a single page, that has 2 navigation links.
 
 {% img /images/natas7_1.png %}

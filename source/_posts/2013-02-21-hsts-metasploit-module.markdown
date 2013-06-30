@@ -11,6 +11,8 @@ categories:
 
 I have been working as a security consultant for a few months now, and one finding that is on almost every webserver I come across, is the lack of an [HSTS (HTTP Strict Transport Security)](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security) implementation. This is understandable, since HSTS is still fairly new. In fact, before starting at [Accuvant](http://www.accuvant.com), I had never heard of it either! However, since most browsers support it now, I wanted to be able to report on it. As of the time of this post, [Nexpose](https://www.rapid7.com/products/nexpose) does not have a finding for this item, but I believe [Nessus](http://www.tenable.com/products/nessus) does. To report on this finding, and provide a screenshot evidence to customers, we were often resorting to manually looking at the headers, or implementing home-made scripts to do it.
 
+<!-- more -->
+
 ## Wait, HSTS? What are you talking about?
 
 When you visit a website over unsecured HTTP, it's often considered a best practice to do a 302 redirect to the HTTPS site. That way, when browser users just type in the domain, it gets redirected to the secure site. When the "Strict-Transport-Security" header is added to the HTTPS response, the client then knows for a certain amount of time (based on the header's value) to ONLY request the HTTPS version of the site. This can greatly reduce the chances of phishing.

@@ -13,6 +13,8 @@ categories:
 
 [Level 2](http://natas2.natas.labs.overthewire.org) of [OverTheWire's](http://www.overthewire.org) Natas wargame is a little more fun than the previous two. It's also pretty simple, though.
 
+<!-- more -->
+
 You start out on a page that tells you that there is nothing on it.
 
 {% img /images/natas2_1.png %}

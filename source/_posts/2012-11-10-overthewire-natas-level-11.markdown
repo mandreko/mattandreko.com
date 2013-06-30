@@ -14,6 +14,8 @@ categories:
 
 [Level 11](http://natas11.natas.labs.overthewire.org) of the [OverTheWire](http://www.overthewire.org) Natas wargames is a good one. It wasn't one that could instantly be solved either. It involved programming, encryption, and HTTP. All fun!
 
+<!-- more -->
+
 It started with a dialog to set the background color. When you click the "Set Color" button, it sets a cookie in your browser. But as the dialog says, the cookie is protected.
 
 {% img /images/natas11_1.png %}

@@ -13,6 +13,8 @@ categories:
 
 On to [Level 10](http://natas10.natas.labs.overthewire.org) of the [OverTheWire](http://www.overthewire.org) Natas wargame! This level is extremely similar to level 9, except that now they are implementing a basic filtering, to prevent you from entering certain characters that could cause changes in the execution of the program. However, their filter is flawed.
 
+<!-- more -->
+
 It starts out just like the last level, with a search dialog.
 
 {% img /images/natas10_1.png %}

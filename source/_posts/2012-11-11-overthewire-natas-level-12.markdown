@@ -13,6 +13,8 @@ categories:
 
 The next level to attack in the [OverTheWire](http://www.overthewire.org) Natas wargame, is [Level 12](http://natas12.natas.labs.overthewire.org), which is more "real-world" as well, since developers often forget to limit file extensions.
 
+<!-- more -->
+
 It starts out giving you the option to upload a <1KB file to the server.
 
 {% img /images/natas12_1.png %}

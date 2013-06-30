@@ -21,6 +21,8 @@ I've read a ton of articles on bypassing Antivirus software when trying to run s
 
 I was recently working with some Windows web-servers, which had ASP.net enabled, but not any other useful language.  I had recently read about [PowerSyringe](http://www.exploit-monday.com/2011/11/powersyringe-powershell-based-codedll.html), so I started tinkering with making some shellcode run similarly. 
 
+<!-- more -->
+
 I ended up finding out that I couldn't do what I was wanting to do in ASP.net as of yet.  If someone else can find a way, please let me know.  Unfortunately, I get the error, "Attempted to read or write protected memory. This is often an indication that other memory is corrupt.", when trying to use this in ASP.net. 
 
 However, for just normal Windows applications, this is yet another great way to hide from AV.  It's very similar to the python method, where you wrap the payload in python, and then turn it into an executable.  Take a look, and let me know of any improvements: 

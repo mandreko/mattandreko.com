@@ -12,6 +12,8 @@ categories:
 
 [Level 4](http://natas4.natas.labs.overthewire.org) of [OverTheWire's](http://www.overthewire.org) Natas wargame starts a little different than the previous levels. It immediately presents you with an error message.
 
+<!-- more -->
+
 {% img /images/natas4_1.png %}
 
 I figured this was going to be due to the HTTP Referer. I guessed that one could solve this by using a proxy or a browser addon, such as [Referer Control](https://chrome.google.com/webstore/detail/referer-control/hnkcfpcejkafcihlgbojoidoihckciin/related), but I simply didn't want to install anything new. I opened a bash window, and simulated my original HTTP GET.

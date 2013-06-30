@@ -13,6 +13,8 @@ categories:
 
 The [6th level](http://natas6.natas.labs.overthewire.org) of the [OverTheWire](http://www.overthewire.org) Natas wargame starts introducing us to PHP and server configuration issues.
 
+<!-- more -->
+
 It starts out with a secret password prompt.
 
 {% img /images/natas6_1.png %}

@@ -13,6 +13,8 @@ categories:
 
 I was recently fuzzing a bunch of SSH servers, hoping to find some remote code execution in a non-mainstream server. I ended up finding no code execution in the several that I tried, but I did find one pre-auth denial of service in Syax Multi Server 6.10.
 
+<!-- more -->
+
 ## Try this at home!
 
 The vulnerable version can be downloaded [here](https://www.dropbox.com/s/d6js8u6i4eioa1j/sysaxserv_setup_6.10.msi) for anyone that would like to duplicate the DoS conditions.

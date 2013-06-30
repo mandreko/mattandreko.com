@@ -15,6 +15,8 @@ So like many people, I wanted the new iPhone 4S.  Since the wife unit is on Spri
 
 {% img /images/sprint_1.png %}
 
+<!-- more -->
+
 When I did this though, it was trying to replace my wife's phone with the iPhone. This was not cool.
 
 I log out, close my browser and try again. This time I go to "My Account", and select "Add a new phone to share minutes". When I did this, I could add a new phone, but we couldn't seem to get it with the family plan setup.

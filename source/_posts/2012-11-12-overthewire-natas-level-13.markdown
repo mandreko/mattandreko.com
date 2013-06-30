@@ -14,6 +14,8 @@ categories:
 
 [Level 13](http://natas13.natas.labs.overthewire.org) of [OverTheWire's](http://www.overthewire.org) Natas wargame is extremely similar to Level 12. The only difference now, is that it's validating that the file is in fact an image. This however is flawed, as exif data can be faked.
 
+<!-- more -->
+
 It starts out with a similar upload prompt as last time.
 
 {% img /images/natas13_1.png %}

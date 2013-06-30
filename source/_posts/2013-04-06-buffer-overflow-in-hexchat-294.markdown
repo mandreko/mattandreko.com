@@ -12,6 +12,8 @@ categories:
 
 A buddy of mine, [Mulitia](https://twitter.com/imulitia), and I were talking about 0-days, and he mentioned finding one in Hex-Chat, a popular IRC client. It was super low severity, but still neat. If you entered "/server " followed by 20,000 random characters, the application died. I decided to try to make a working exploit out of this for fun.
 
+<!-- more -->
+
 I contacted HexChat, by initialling going into the #hexchat channel on irc.freenode.net and trying to find a security contact. TingPing said I could give the details specifically through him. Eventually an issue was created: https://github.com/hexchat/hexchat/issues/463
 
 ## Walkthrough of the exploit

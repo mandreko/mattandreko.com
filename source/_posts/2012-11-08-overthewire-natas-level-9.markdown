@@ -13,6 +13,8 @@ categories:
 
 The next level of [OverTheWire's](http://www.overthewire.org) Nata challenge is [Level 9](http://natas9.natas.labs.overthewire.org). This is a command injection vulnerability.
 
+<!-- more -->
+
 Initially, you are given a search box.
 
 {% img /images/natas9_1.png %}

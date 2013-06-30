@@ -14,6 +14,8 @@ categories:
 
 Up until now, none of the OverTheWire Natas challenges really gave me that much of an issue. This one however, took me a couple hours to complete. Level 15 is a fun blind sql-injection vulnerability. 
 
+<!-- more -->
+
 It starts out with a username check dialog, which pretty much only gives you a binary value as to if a username exists or not.
 
 {% img /images/natas15_1.png %}
