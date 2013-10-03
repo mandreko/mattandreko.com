@@ -78,6 +78,7 @@ Redirect 301 /2013/02/xbmc-traversal-metasploit-module.html /2013/02/25/xbmc-tra
 Redirect 301 /2013/04/buffer-overflow-in-hexchat-294.html /2013/04/06/buffer-overflow-in-hexchat-294/
 Redirect 301 /2013/04/sysax-multi-server-610-ssh-dos.html /2013/04/08/sysax-multi-server-610-ssh-dos/
 Redirect 301 /2013/06/canon-y-u-no-security.html /2013/06/18/canon-y-u-no-security/
+Redirect 301 /feeds/posts/default /atom.xml
 
 
 # Block bad bots
