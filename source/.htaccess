@@ -80,6 +80,12 @@ Redirect 301 /2013/04/sysax-multi-server-610-ssh-dos.html /2013/04/08/sysax-mult
 Redirect 301 /2013/06/canon-y-u-no-security.html /2013/06/18/canon-y-u-no-security/
 Redirect 301 /feeds/posts/default /atom.xml
 
+# From 404 logs
+Redirect 301 /2011/12/01/exploit-exercises-nebula-01 /2011/12/02/exploit-exercises-nebula-01/
+Redirect 301 /2011/12/05/exploit-exercises-nebula-03 /2011/12/04/exploit-exercises-nebula-03/
+Redirect 301 /2011/12/04/exploit-exercises-nebula-04 /2011/12/05/exploit-exercises-nebula-04/
+Redirect 301 /2011/12/10/exploit-exercises-nebula-07 /2011/12/08/exploit-exercises-nebula-07/
+Redirect 301 /2012/01/24/exploit-exercises-protostar-format-1 /2012/01/30/exploit-exercises-protostar-format-1/
 
 # Block bad bots
 RewriteEngine On 
