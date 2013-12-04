@@ -12,7 +12,7 @@ categories:
 
 {% img left /images/brainpan.jpg %}
 
-Over on #vulnhub, there has been quite a chatter about [Brainpan2](http://vulnhub.com/entry/brainpan_2,56/), a "sequel" to Brainpan, by [superkojiman](https://twitter.com/@superkojiman). They're even offering a 50 GBP award to whoever submits the best write-up! Since I enjoy challenges like this, I took a look at the machine.
+Over on #vulnhub, there has been quite a chatter about [Brainpan2](http://vulnhub.com/entry/brainpan_2,56/), a "sequel" to Brainpan, by [superkojiman](https://twitter.com/@superkojiman). They're even offering a 50 GBP award to whoever submits the best write-up! Since I enjoy challenges like this, I took a look at the machine. However, the writeup had to wait until the contest was complete, so that people didn't cheat to win.
 
 <!-- more -->
 
@@ -680,5 +680,7 @@ root @brainpan2:~# cat /root/flag.txt
 ```
 
 ## Conclusion
+
+After talking with [superkojiman](https://twitter.com/@superkojiman), I find out that I did at least a couple of the challenges in ways he didn't design. The last part of the challenge was actually supposed to be an exploit-dev challenge, but I managed to find my own path. I may have to return to this challenge to try it the proper way now.
 
 Thanks [superkojiman](https://twitter.com/@superkojiman) for an awesome boot2root. Thanks [g0tmi1k](https://twitter.com/@g0tmi1k) for hosting [VulnHub](http://vulnhub.com/). I really enjoyed playing this game, and appreciate the work that everyone puts into the individual challenges, as well as the site itself.
