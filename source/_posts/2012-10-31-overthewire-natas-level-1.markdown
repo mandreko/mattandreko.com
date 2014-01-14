@@ -11,7 +11,7 @@ categories:
  - hacking
 ---
 
-In continuing with the Natas wargame from [OverTheWire](http://www.overthewire.org), I tried my hand at [level 1](http://natas1.natas.labs.overthewire.org). It too was pretty easy. It was just like the level 0, except that right-clicking was disabled via javascript.
+In continuing with the Natas wargame from [OverTheWire](http://www.overthewire.org), I tried my hand at [level 1](http://www.overthewire.org/wargames/natas/natas1.shtml). It too was pretty easy. It was just like the level 0, except that right-clicking was disabled via javascript.
 
 <!-- more -->
 

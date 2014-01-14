@@ -10,7 +10,7 @@ categories:
  - hacking
 ---
 
-[Level 4](http://natas4.natas.labs.overthewire.org) of [OverTheWire's](http://www.overthewire.org) Natas wargame starts a little different than the previous levels. It immediately presents you with an error message.
+[Level 4](http://www.overthewire.org/wargames/natas/natas4.shtml) of [OverTheWire's](http://www.overthewire.org) Natas wargame starts a little different than the previous levels. It immediately presents you with an error message.
 
 <!-- more -->
 

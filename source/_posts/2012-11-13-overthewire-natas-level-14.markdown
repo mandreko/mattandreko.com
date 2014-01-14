@@ -12,7 +12,7 @@ categories:
  - hacking
 ---
 
-The next level of the [OverTheWire](http://www.overthewire.org) Natas wargame is [Level 14](http://natas14.natas.labs.overthewire.org), which introduces [SQL Injection](https://www.owasp.org/index.php/SQL_Injection), a very popular subject as of late.
+The next level of the [OverTheWire](http://www.overthewire.org) Natas wargame is [Level 14](http://www.overthewire.org/wargames/natas/natas14.shtml), which introduces [SQL Injection](https://www.owasp.org/index.php/SQL_Injection), a very popular subject as of late.
 
 <!-- more -->
 

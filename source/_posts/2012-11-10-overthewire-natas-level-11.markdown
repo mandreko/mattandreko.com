@@ -12,7 +12,7 @@ categories:
  - hacking
 ---
 
-[Level 11](http://natas11.natas.labs.overthewire.org) of the [OverTheWire](http://www.overthewire.org) Natas wargames is a good one. It wasn't one that could instantly be solved either. It involved programming, encryption, and HTTP. All fun!
+[Level 11](http://www.overthewire.org/wargames/natas/natas11.shtml) of the [OverTheWire](http://www.overthewire.org) Natas wargames is a good one. It wasn't one that could instantly be solved either. It involved programming, encryption, and HTTP. All fun!
 
 <!-- more -->
 

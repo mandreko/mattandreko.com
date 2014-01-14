@@ -11,7 +11,7 @@ categories:
  - hacking
 ---
 
-The next level to attack in the [OverTheWire](http://www.overthewire.org) Natas wargame, is [Level 12](http://natas12.natas.labs.overthewire.org), which is more "real-world" as well, since developers often forget to limit file extensions.
+The next level to attack in the [OverTheWire](http://www.overthewire.org) Natas wargame, is [Level 12](http://www.overthewire.org/wargames/natas/natas12.shtml), which is more "real-world" as well, since developers often forget to limit file extensions.
 
 <!-- more -->
 

@@ -9,6 +9,7 @@ categories:
  - shellcode
  - hacking
  - csharp
+ - dotnet
 ---
 
 I've read a ton of articles on bypassing Antivirus software when trying to run shellcode on machines.  There's just a ton available.  These are just a few examples: 
@@ -16,7 +17,7 @@ I've read a ton of articles on bypassing Antivirus software when trying to run s
 * http://dev.metasploit.com/redmine/projects/framework/wiki/Using_a_Custom_Executable_to_Bypass_AV
 * http://www.offensive-security.com/metasploit-unleashed/Antivirus_Bypass
 * http://www.irongeek.com/i.php?page=videos/bypassing-anti-virus-with-metasploit
-* http://www.clshack.com/en/metasploit-shellcodeexec-bypassing-any-anti-virus.html
+* http://clshack.com/metasploit-shellcodeexec-bypassing-any-anti-virus.html
 * http://carnal0wnage.attackresearch.com/2011/07/process-injection-outside-of-metasploit.html
 
 I was recently working with some Windows web-servers, which had ASP.net enabled, but not any other useful language.  I had recently read about [PowerSyringe](http://www.exploit-monday.com/2011/11/powersyringe-powershell-based-codedll.html), so I started tinkering with making some shellcode run similarly. 

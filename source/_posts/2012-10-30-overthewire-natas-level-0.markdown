@@ -15,7 +15,7 @@ I recently read that [OverTheWire](http://www.overthewire.org) had released a ne
 
 <!-- more -->
 
-The [first level](http://natas0.natas.labs.overthewire.org) is extremely easy. You are presented with a page that tells you that you are able to find the password on this page.
+The [first level](http://www.overthewire.org/wargames/natas/natas0.shtml) is extremely easy. You are presented with a page that tells you that you are able to find the password on this page.
 
 {% img /images/natas0_1.png %}
 

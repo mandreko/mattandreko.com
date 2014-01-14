@@ -4,7 +4,7 @@ title: "Finding DLL files in the GAC"
 date: 2011-10-14T07:20:00-04:00
 comments: true
 categories:
- - .net
+ - dotnet
  - gac
  - windows
  - assembly

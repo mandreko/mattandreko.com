@@ -12,7 +12,7 @@ categories:
  - hacking
 ---
 
-[Level 13](http://natas13.natas.labs.overthewire.org) of [OverTheWire's](http://www.overthewire.org) Natas wargame is extremely similar to Level 12. The only difference now, is that it's validating that the file is in fact an image. This however is flawed, as exif data can be faked.
+[Level 13](http://www.overthewire.org/wargames/natas/natas13.shtml) of [OverTheWire's](http://www.overthewire.org) Natas wargame is extremely similar to Level 12. The only difference now, is that it's validating that the file is in fact an image. This however is flawed, as exif data can be faked.
 
 <!-- more -->
 

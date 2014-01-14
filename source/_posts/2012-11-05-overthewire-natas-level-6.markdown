@@ -11,7 +11,7 @@ categories:
  - hacking
 ---
 
-The [6th level](http://natas6.natas.labs.overthewire.org) of the [OverTheWire](http://www.overthewire.org) Natas wargame starts introducing us to PHP and server configuration issues.
+The [6th level](http://www.overthewire.org/wargames/natas/natas6.shtml) of the [OverTheWire](http://www.overthewire.org) Natas wargame starts introducing us to PHP and server configuration issues.
 
 <!-- more -->
 

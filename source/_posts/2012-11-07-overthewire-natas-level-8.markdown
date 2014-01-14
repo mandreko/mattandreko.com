@@ -12,7 +12,7 @@ categories:
  - hacking
 ---
 
-[Level 8](http://natas8.natas.labs.overthewire.org) of the [OverTheWires](http://www.overthewire.org) Natas wargame was pretty simple, as a developer, but could prove more difficult if you don't have similar background.
+[Level 8](http://www.overthewire.org/wargames/natas/natas8.shtml) of the [OverTheWires](http://www.overthewire.org) Natas wargame was pretty simple, as a developer, but could prove more difficult if you don't have similar background.
 
 <!-- more -->
 

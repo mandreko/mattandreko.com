@@ -11,7 +11,7 @@ categories:
  - hacking
 ---
 
-[Level 2](http://natas2.natas.labs.overthewire.org) of [OverTheWire's](http://www.overthewire.org) Natas wargame is a little more fun than the previous two. It's also pretty simple, though.
+[Level 2](http://www.overthewire.org/wargames/natas/natas2.shtml) of [OverTheWire's](http://www.overthewire.org) Natas wargame is a little more fun than the previous two. It's also pretty simple, though.
 
 <!-- more -->
 

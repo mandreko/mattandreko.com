@@ -84,7 +84,7 @@ Service detection performed. Please report any incorrect results at http://nmap.
 Nmap done: 1 IP address (1 host up) scanned in 26.42 seconds
 ```
 
-I started to poke around.  Since HTTP is often times the easiest for me, I started there.  I went to http://192.168.95.131 and was presented with a basic login screen (and a cute goat).  I attempted to use the username of "admin", with the same password, "admin".  It redirected me to a password failure page, located at http://192.168.95.131/checklogin.php.  I used the Firefox extension, Tamper Data, to double-check the POST query-string.  It showed, "myusername=admin&mypassword=admin&Submit=Login". 
+I started to poke around.  Since HTTP is often times the easiest for me, I started there.  I went to http://<nolink>192.168.95.131 and was presented with a basic login screen (and a cute goat).  I attempted to use the username of "admin", with the same password, "admin".  It redirected me to a password failure page, located at http://<nolink>192.168.95.131/checklogin.php.  I used the Firefox extension, Tamper Data, to double-check the POST query-string.  It showed, "myusername=admin&mypassword=admin&Submit=Login". 
 
 My instincts told me that I should attempt some sql injection on these login screens.  I tinkered with some of the basic ones I remembered off the top of my head, but none of them worked.  It did show promise though, as I received several errors in the process.  This meant it was time for the big guns.   
 

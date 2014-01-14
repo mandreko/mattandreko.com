@@ -11,7 +11,7 @@ categories:
  - hacking
 ---
 
-On to [Level 10](http://natas10.natas.labs.overthewire.org) of the [OverTheWire](http://www.overthewire.org) Natas wargame! This level is extremely similar to level 9, except that now they are implementing a basic filtering, to prevent you from entering certain characters that could cause changes in the execution of the program. However, their filter is flawed.
+On to [Level 10](http://www.overthewire.org/wargames/natas/natas10.shtml) of the [OverTheWire](http://www.overthewire.org) Natas wargame! This level is extremely similar to level 9, except that now they are implementing a basic filtering, to prevent you from entering certain characters that could cause changes in the execution of the program. However, their filter is flawed.
 
 <!-- more -->
 
