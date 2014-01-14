@@ -7,6 +7,7 @@ categories:
  - directorytraversal
  - metasploit
  - hacking
+ - exploit
 ---
 
 ## Background

@@ -9,6 +9,7 @@ categories:
  - sysax
  - exploit
  - hacking
+ - metasploit
 ---
 
 I have discovered a bug in the [Sysax Multi-Server application](http://sysax.com/server/index.htm). More specifically, it's in the HTTP File Server service, which is not enabled by default. It has to be turned on by the admin for this exploit to properly function. The user in question also needs permission to create a directory. 
